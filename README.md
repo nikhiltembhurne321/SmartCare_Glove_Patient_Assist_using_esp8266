@@ -42,8 +42,6 @@ Install these libraries via **Library Manager** in Arduino IDE.
 - Connect to the same Wi-Fi network.
 - Enter the IP shown on OLED in your browser.
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 💡 Future Enhancements
 - Add audio output for alerts
